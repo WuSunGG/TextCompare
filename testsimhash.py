@@ -56,7 +56,7 @@ class SimHash(object):
             ret += str(tmp)
         return ret
 
-    def simHash(self, rawstr):
+    def hash(self, rawstr):
         """
 
         :param rawstr: 文本
@@ -70,7 +70,7 @@ class SimHash(object):
         #  {tuple: 2} ('资源', 0.26808614843899997)
         #  {tuple: 2} ('系统', 0.21585966056762962)
         #  {tuple: 2} ('用户', 0.14529049043116665)
-        keywords = jieba.analyse.extract_tags("|".join(seg), topK=100, withWeight=True)
+        keywords = jieba.analyse.extract_tags("|".join(seg), topK=1000, withWeight=True)
         ret = []
         # keyword = '资源' weight = 0.26808614843899997
         for keyword, weight in keywords:
@@ -116,17 +116,3 @@ class SimHash(object):
             else:
                 length += 1
         return length
-
-
-
-simhash = SimHash()
-s1 = open('p1.txt').read()
-s2 = open('p2.txt').read()
-
-hash1 = simhash.simHash(s1)
-hash2 = simhash.simHash(s2)
-print("simhash 1 : "+hash1)
-print("simhash 2 : "+hash2)
-distince = simhash.getDistince(hash1, hash2)
-value = 5
-print("海明距离：", distince, "判定距离：", value, "是否相似：", distince <= value)

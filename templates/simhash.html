@@ -1,0 +1,20 @@
+<h1>文本对比程序</h1>
+
+<form action="" method="post">
+    {% csrf_token %}
+    <div style="width: 49%;height: 70%;float: left;">
+        第一篇文章：<br>
+        <textarea style="width: 100%;height: 95%;" name="tx1">{{tx1}}</textarea>
+    </div>
+    <div style="width: 49%;height: 70%;float: right;">
+        第二篇文章：<br>
+        <textarea style="width: 100%;height: 95%;" name="tx2">{{tx2}}</textarea>
+    </div>
+
+    <input style=" width: 100%; height: 50px; background: cadetblue;clear: both;" type="submit" value="对比文章"/>
+    <hr>
+    <h1>结果</h1>
+    <div style="color: red;height: 20px;">{{answer}}</div>
+    <p>内容1：{{tx1}}</p>
+    <p>内容2：{{tx2}}</p>
+</form>
