@@ -1,0 +1,1 @@
+scp -r . root@139.9.144.32:/opt/software

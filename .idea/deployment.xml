@@ -5,7 +5,7 @@
       <paths name="root@192.168.184.129:22">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/pycharm_project_30" local="$PROJECT_DIR$" />
+            <mapping deploy="/textsim" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

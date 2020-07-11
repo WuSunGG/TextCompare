@@ -12,8 +12,11 @@ tar zxvf sqlite-autoconf-3300100.tar.gz
 cd sqlite-autoconf-3300100/
 ./configure
 make & make install
+
+
 mv /usr/bin/sqlite3  /usr/bin/sqlite3_old
 ln -s /usr/local/bin/sqlite3   /usr/bin/sqlite3
+echo  export LD_LIBRARY_PATH=/usr/local/lib >> /etc/profile && source /etc/profile
 python manage.py runserver 0:8000
 
 Django

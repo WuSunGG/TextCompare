@@ -13,8 +13,10 @@
 
     <input style=" width: 100%; height: 50px; background: cadetblue;clear: both;" type="submit" value="对比文章"/>
     <hr>
-    <h1>结果</h1>
-    <div style="color: red;height: 20px;">{{answer}}</div>
+    <h1 style="color: red">是否相似：{{issame}}</h1>
+    <p>海明距离: {{hmdistance}}</p>
+    <p>判定距离: {{dedistance}}</p>
+    <h3>原文本</h3>
     <p>内容1：{{tx1}}</p>
     <p>内容2：{{tx2}}</p>
 </form>
