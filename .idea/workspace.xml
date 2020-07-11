@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bagel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bagel_pred.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chaomei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frog_pred.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/push_to_server.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiger.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tiger_pred.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vgg16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/remote-mappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/install.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/simhash.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/simhash.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594436287658</updated>
       <workItem from="1594436289500" duration="1673000" />
-      <workItem from="1594439079523" duration="20191000" />
+      <workItem from="1594439079523" duration="21697000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -174,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594458271233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="图片分类">
+      <created>1594462213239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594462213239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +177,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加为网页功能" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加为网页功能" />
+    <MESSAGE value="图片分类" />
+    <option name="LAST_COMMIT_MESSAGE" value="图片分类" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1503" y="181" key="#Deployment" timestamp="1594447855947">
@@ -214,10 +210,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1205" y="221" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440382429" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1594458269781">
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1594473489050">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594458269781" />
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594462211888" />
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594473489050" />
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog" timestamp="1594447742587">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -271,10 +268,10 @@
     </state>
     <state x="-1476" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444563759" />
     <state x="444" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454841432" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594458278506">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594462216368">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594458278506" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594462216368" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594436295299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -17,6 +17,10 @@
     <p>海明距离: {{hmdistance}}</p>
     <p>判定距离: {{dedistance}}</p>
     <h3>原文本</h3>
-    <p>内容1：{{tx1}}</p>
-    <p>内容2：{{tx2}}</p>
+    <div>
+        {% autoescape off %}
+          {{diffe}}
+        {% endautoescape %}
+
+    </div>
 </form>
