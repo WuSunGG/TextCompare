@@ -1,4 +1,6 @@
-<h1>文本对比程序</h1>
+<h1>判断两篇文章是否相似-demo</h1>
+
+<h2 style="color: red;text-align: center">试用区域 <br>(<small style="text-align: center">请到页面最后查看使用说明 </small>)</h2>
 
 <form action="" method="post">
     {% csrf_token %}
@@ -24,3 +26,26 @@
 
     </div>
 </form>
+<hr>
+<hr>
+<hr>
+<h2 style="color: red;text-align: center">使用说明</h2>
+<hr>
+<p style="color: red;">使用方式：</p>
+<p>
+<ol>
+    <li>填入你想判断的两篇文章</li>
+    <li>点击比对</li>
+    <li>等待结果</li>
+
+</ol></p>
+<p style="color: red;">结果说明：可观察两篇文章哪些地方相似。如果比对结果不像下图中显示的那样，请缩放你的浏览器就可以了。</p>
+<div>
+   {% load static %}
+    <h5>下图为样例说明图</h5>
+    <img width="100%" src="{% static 'text_diff_demo.jpg' %}" alt="请上传原图"/>
+</div>
+
+<hr>
+<hr>
+<hr>

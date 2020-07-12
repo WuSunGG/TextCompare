@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picpre/pic_prediect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picpre/static/picpre/house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/picpre/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/house.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/picpre.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text_diff_demo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/install.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/simhash.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/simhash.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textsim/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/textsim/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textsim/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/textsim/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vgg16.py" beforeDir="false" afterPath="$PROJECT_DIR$/vgg16.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +68,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\NLP\picpre\static\picpre" />
       <recent name="D:\NLP" />
       <recent name="D:\NLP\templates" />
       <recent name="D:\NLP\simhash\templates\demo" />
       <recent name="D:\NLP\simhash\templates" />
-      <recent name="D:\NLP\simhash" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\NLP" />
-      <recent name="D:\NLP\simhash" />
+      <recent name="D:\NLP\static" />
+      <recent name="D:\NLP\picpre\static" />
+      <recent name="D:\NLP\picpre" />
+      <recent name="D:\NLP\templates" />
     </key>
   </component>
   <component name="RunManager" selected="Python.vgg16">
@@ -153,7 +167,7 @@
       <option name="presentableId" value="Default" />
       <updated>1594436287658</updated>
       <workItem from="1594436289500" duration="1673000" />
-      <workItem from="1594439079523" duration="21697000" />
+      <workItem from="1594439079523" duration="33089000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -169,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594462213239</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="可视化哪些抄袭">
+      <created>1594473524090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594473524090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,7 +199,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加为网页功能" />
     <MESSAGE value="图片分类" />
-    <option name="LAST_COMMIT_MESSAGE" value="图片分类" />
+    <MESSAGE value="可视化哪些抄袭" />
+    <option name="LAST_COMMIT_MESSAGE" value="可视化哪些抄袭" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1503" y="181" key="#Deployment" timestamp="1594447855947">
@@ -210,11 +232,11 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1205" y="221" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440382429" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1594473489050">
+    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1594473523019">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594462211888" />
-    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594473489050" />
+    <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594473523019" />
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog" timestamp="1594447742587">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
@@ -268,10 +290,11 @@
     </state>
     <state x="-1476" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444563759" />
     <state x="444" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454841432" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594462216368">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1594473526335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594462216368" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594473526335" />
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594436295299">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

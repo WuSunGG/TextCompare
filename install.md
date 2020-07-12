@@ -28,6 +28,7 @@ Django
 
 
  python manage.py startapp simhash
+ python manage.py startapp picpre
  
  http://192.168.184.129:8000/simhash/
  
@@ -35,3 +36,22 @@ Django
  ## Django出错提示TemplateDoesNotExist at /
   D:\NLP\textsim\settings.py
 'DIRS': [os.path.join(BASE_DIR, 'templates')],
+
+
+
+
+## No module named 'matplotlib'
+清华大学镜像
+https://pypi.tuna.tsinghua.edu.cn/simple/
+阿里云
+http://mirrors.aliyun.com/pypi/simple/
+中科大镜像
+https://pypi.mirrors.ustc.edu.cn/simple/
+豆瓣镜像
+http://pypi.douban.com/simple/
+中科大镜像2
+http://pypi.mirrors.ustc.edu.cn/simple/
+
+pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install keras -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install tensorflow  -i https://pypi.tuna.tsinghua.edu.cn/simple/
