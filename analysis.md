@@ -62,15 +62,22 @@ class SimHash(object):
         :param rawstr: 文本
         :return:
         """
+        # 例子州道教育科技有限公司（ARKTAO）的一员是孙武同学。
         # 1 分词
         seg = jieba.cut(rawstr)
 
         # 文字关键词
         #  找到文章的关键词，词频解析为 （词语，权重）,如
-        #  {tuple: 2} ('资源', 0.26808614843899997)
-        #  {tuple: 2} ('系统', 0.21585966056762962)
-        #  {tuple: 2} ('用户', 0.14529049043116665)
         keywords = jieba.analyse.extract_tags("|".join(seg), topK=1000, withWeight=True)
+        # RES:
+        # 0 = {tuple: 2} ('ARKTAO', 1.7078239289857142)
+        # 1 = {tuple: 2} ('孙武', 1.426950663792857)
+        # 2 = {tuple: 2} ('一员', 1.1383474949328571)
+        # 3 = {tuple: 2} ('同学', 1.0294450847785714)
+        # 4 = {tuple: 2} ('科技', 0.8331820990585713)
+        # 5 = {tuple: 2} ('教育', 0.8111989397285715)
+        # 6 = {tuple: 2} ('有限公司', 0.7419558412757142)
+        
         ret = []
         # keyword = '资源' weight = 0.26808614843899997
         for keyword, weight in keywords:
@@ -116,3 +123,16 @@ class SimHash(object):
             else:
                 length += 1
         return length
+
+# print(__name__)
+## res __main__
+if __name__ == "__main__":
+    tx1="sdfsdf"
+    tx2="sdfsdf"
+    simhash=SimHash()
+    hash1 = simhash.hash(tx1)
+    hash2 = simhash.hash(tx2)
+    distince = simhash.getDistince(hash1, hash2)
+    value = 20
+    res = "海明距离：" + str(distince) + " 判定距离：" + str(value) + " 是否相似 " + str(distince <= value)
+    print(res)

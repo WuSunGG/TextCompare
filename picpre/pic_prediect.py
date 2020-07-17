@@ -55,17 +55,17 @@ def pre_pic(img_path,topn=10):
     # 绘图并保存
     fig=plt.figure(u"Top-5 预测结果")
     ax = fig.add_subplot(111)
-    ax.bar(range(len(values)), values, tick_label=bar_label, width=0.5, fc='g')
+    ax.bar(range(len(values)), values, tick_label=bar_label, width=0.2, fc='g')
     ax.set_ylabel(u'probability')
     ax.set_title(u'Top-5')
     for a,b in zip(range(len(values)), values):
-        ax.text(a, b+0.0005, percent(b), ha='center', va = 'bottom', fontsize=7)
+        ax.text(a, b+0.0005, percent(b), ha='center', va = 'bottom', fontsize=5)
 
     fig = plt.gcf()
     plt.show()
 
     name=img_path[0:-4]+'_pred'+'.jpg'
-    fig.savefig(name, dpi=200)
+    fig.savefig(name, dpi=400)
     print("prediect name",name)
     return name
 

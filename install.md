@@ -55,3 +55,4 @@ http://pypi.mirrors.ustc.edu.cn/simple/
 pip install matplotlib -i https://pypi.tuna.tsinghua.edu.cn/simple/
 pip install keras -i https://pypi.tuna.tsinghua.edu.cn/simple/
 pip install tensorflow  -i https://pypi.tuna.tsinghua.edu.cn/simple/
+pip install python-docx -i https://pypi.tuna.tsinghua.edu.cn/simple/
