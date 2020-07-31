@@ -4,10 +4,9 @@ from . import views
 
 urlpatterns = [
     path('', views.index, name='index'),
-    # ex: /polls/5/
-    path('<int:question_id>/', views.detail, name='detail'),
-    # ex: /polls/5/results/
-    path('<int:question_id>/results/', views.results, name='results'),
-    # ex: /polls/5/vote/
-    path('<int:question_id>/vote/', views.vote, name='vote'),
+    path('v2', views.index2, name='index2'),
+    path('v2/<int:distance>', views.index21, name='index2'),
+    path('v2/compare/<slug:fp>/<slug:tp>', views.compare),
+    path('v3/<int:distance>', views.index3, name='index3'),
+    path('v1/html', views.htmlcheckv1, name='htmlcheckv1'),
 ]

@@ -1,76 +1,95 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="完成文章对比和图片分类demo">
-      <change afterPath="$PROJECT_DIR$/analysis.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_SimHash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15-软工-47-杨宗流.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-01-朱浩.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-02-李江琴.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-03-金马.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-04-韩光敏.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-05-刘港.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-06-申婷婷.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-07-陈友强.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-08-孔莉.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-09-朱鹏成.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-10-鲜飞.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-11-曾祥武.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-12-李波.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-13-李旺.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-14-李丽艳.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-15-陈鸿.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-17-胡应学.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-18-姚召波.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-19-吴启冉.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-20-谢佳华.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-21-封姝鸿.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-23-尹涵.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-24-莫兰恒.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-25-胡洋洋.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-26-徐娅楠.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-27-陈涛.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-28-吴军荣.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-29-胡佳乐.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-30-詹源.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-31-孙武.doc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-32-王凡.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-34-陈岚.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-35-张德志.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-36-刘思乾.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-37-郑梦月.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-38-臧庆照.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-39-张宇帆.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-40-王鼎燊.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-41-陈隐农.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-42-朱仕全.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-43-李秋美.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-44-张大发.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-45-吴强.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-46-罗永双.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-48-杨生娥.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-49-杨豪.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/works/15软工-50-潘兴宏.docx" afterDir="false" />
+    <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/progress/progress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/progress/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/test/11.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/test/test_doc2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/test/test_html2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/trans/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/trans/docx2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/component/trans/html2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/html_check_request.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pypora.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simhash/Response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simhash/htmlPaper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simhash/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simhash/templatetags/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/simhash/templatetags/myfilter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/compare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/papercompare.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/papercompare_pic.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/book.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/html2txt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/jsonParse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/req.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works/15软工-29-胡佳乐2.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works/~$软工-32-王凡.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15-软工-47-杨宗流.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-01-朱浩.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-02-李江琴.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-03-金马.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-04-韩光敏.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-05-刘港.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-06-申婷婷.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-07-陈友强.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-08-孔莉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-09-朱鹏成.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-10-鲜飞.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-11-曾祥武.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-12-李波.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-13-李旺.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-14-李丽艳.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-15-陈鸿.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-17-胡应学.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-18-姚召波.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-19-吴启冉.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-20-谢佳华.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-21-封姝鸿.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-23-尹涵.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-24-莫兰恒.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-25-胡洋洋.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-26-徐娅楠.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-27-陈涛.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-28-吴军荣.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-29-胡佳乐.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-30-詹源.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-31-孙武.doc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-32-王凡.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-34-陈岚.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-35-张德志.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-36-刘思乾.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-37-郑梦月.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-38-臧庆照.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-39-张宇帆.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-40-王鼎燊.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-41-陈隐农.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-42-朱仕全.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-43-李秋美.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-44-张大发.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-45-吴强.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-46-罗永双.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-48-杨生娥.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-49-杨豪.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/works_bak/15软工-50-潘兴宏.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/NLP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NLP.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/remote-mappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/remote-mappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aaa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bagel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bagel_pred.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/chaomei.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frog_pred.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/house.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev_SimHash.py" beforeDir="false" afterPath="$PROJECT_DIR$/dev_SimHash.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/install.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/picpre/pic_prediect.py" beforeDir="false" afterPath="$PROJECT_DIR$/picpre/pic_prediect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testsimhash.py" beforeDir="false" afterPath="$PROJECT_DIR$/dev_SimHash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/text_diff_demo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiger.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tiger_pred.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simhash/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/simhash/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simhash/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/simhash/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_SimHash.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_SimHash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/textsim/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/textsim/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +139,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/works" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/component/test" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -128,48 +147,29 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Arktao\NLP\component\test" />
+      <recent name="F:\Arktao\NLP\test" />
       <recent name="F:\Arktao\NLP\works" />
-      <recent name="F:\Arktao\NLP\resource" />
-      <recent name="D:\NLP" />
-      <recent name="D:\NLP\static" />
-      <recent name="D:\NLP\picpre\static" />
+      <recent name="F:\Arktao\NLP\templates" />
+      <recent name="F:\Arktao\NLP\textsim" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Arktao\NLP\component\test" />
+      <recent name="F:\Arktao\NLP\component\trans" />
+      <recent name="F:\Arktao\NLP\simhash" />
+      <recent name="F:\Arktao\NLP" />
       <recent name="D:\NLP\picpre\static\picpre" />
-      <recent name="D:\NLP" />
-      <recent name="D:\NLP\templates" />
-      <recent name="D:\NLP\simhash\templates\demo" />
-      <recent name="D:\NLP\simhash\templates" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.dev_SimHash (1)">
-    <configuration name="aaa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/simhash" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/simhash/aaa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+  <component name="RunManager" selected="Python.jsonParse">
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NLP/component/progress/test.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="dev_SimHash (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dev_SimHash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dev_SimHash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="jsonParse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,34 +199,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\Arktao\NLP\dev_SimHash.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_SimHash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_SimHash.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/jsonParse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -235,7 +213,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vgg16" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="NLP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -243,14 +221,36 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/component" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vgg16.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/component/logger.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="progress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="NLP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/component/progress" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/component/progress/progress.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
@@ -258,19 +258,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.aaa" />
-      <item itemvalue="Python.vgg16" />
+      <item itemvalue="Python.progress" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="Python.logger" />
+      <item itemvalue="Python.jsonParse" />
       <item itemvalue="Python.dev_SimHash" />
-      <item itemvalue="Python.dev_SimHash (1)" />
-      <item itemvalue="Python.test_SimHash" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.dev_SimHash (1)" />
-        <item itemvalue="Python.test_SimHash" />
-        <item itemvalue="Python.vgg16" />
+        <item itemvalue="Python.jsonParse" />
         <item itemvalue="Python.dev_SimHash" />
-        <item itemvalue="Python.aaa" />
+        <item itemvalue="Python.progress" />
+        <item itemvalue="Python.logger" />
+        <item itemvalue="JavaScript Debug.test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +286,10 @@
       <updated>1594436287658</updated>
       <workItem from="1594436289500" duration="1673000" />
       <workItem from="1594439079523" duration="35803000" />
-      <workItem from="1594949223932" duration="6605000" />
+      <workItem from="1594949223932" duration="35483000" />
+      <workItem from="1595297047286" duration="94000" />
+      <workItem from="1596094158049" duration="208000" />
+      <workItem from="1596094393906" duration="18599000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -316,11 +319,31 @@
       <option name="project" value="LOCAL" />
       <updated>1594532102837</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="完成文章对比和图片分类demo">
+      <created>1594956241677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594956241677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加为网页功能" />
@@ -335,16 +358,23 @@
     </state>
     <state x="-1503" y="181" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855947" />
     <state x="417" y="183" key="#Deployment/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949253749" />
-    <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594949272114">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2052" y="621" key="#Inspections" timestamp="1596193453824">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2052" y="621" key="#Inspections/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596193453824" />
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596094425423">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460315811" />
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949272114" />
-    <state x="670" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594454671195">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094425423" />
+    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596191613469">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1250" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594436325173" />
     <state x="670" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454671195" />
+    <state x="670" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594967562443" />
+    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596191613469" />
     <state x="689" y="301" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594456246932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -357,78 +387,115 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="241" key="#install.sh/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594448983579" />
-    <state x="987" y="459" width="576" height="591" key="#xdebugger.evaluate" timestamp="1594951468528">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="19" y="371" key="#progress" timestamp="1596099101400">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="19" y="371" key="#progress/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596099101400" />
+    <state x="2097" y="839" width="490" height="1081" key="#xdebugger.evaluate" timestamp="1596200558928">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1205" y="221" key="#xdebugger.evaluate/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440382429" />
-    <state x="987" y="459" width="576" height="591" key="#xdebugger.evaluate/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594951468528" />
-    <state x="560" y="109" key="CommitChangelistDialog2" timestamp="1594532112525">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="987" y="459" width="576" height="591" key="#xdebugger.evaluate/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594964830005" />
+    <state x="2097" y="839" width="490" height="1081" key="#xdebugger.evaluate/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200558928" />
+    <state x="560" y="110" key="CommitChangelistDialog2" timestamp="1594956240508">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594462211888" />
     <state x="560" y="109" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594532112525" />
+    <state x="560" y="110" key="CommitChangelistDialog2/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956240508" />
+    <state x="2012" y="92" width="896" height="1736" key="DiffContextDialog" timestamp="1596198442703">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2012" y="92" width="896" height="1736" key="DiffContextDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596198442703" />
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog" timestamp="1594447742587">
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447742587" />
-    <state x="-1180" y="275" key="FileChooserDialogImpl" timestamp="1594444517358">
-      <screen x="-1920" y="0" width="1920" height="1040" />
+    <state x="740" y="286" key="FileChooserDialogImpl" timestamp="1596097273536">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444517358" />
-    <state width="1877" height="365" key="GridCell.Tab.0.bottom" timestamp="1594956188657">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595297157011" />
+    <state x="740" y="286" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097273536" />
+    <state width="1037" height="649" key="GridCell.Tab.0.bottom" timestamp="1596200936293">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
     <state width="1877" height="291" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="365" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956188657" />
-    <state width="1877" height="365" key="GridCell.Tab.0.center" timestamp="1594956188657">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987275" />
+    <state width="1641" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
+    <state width="1037" height="649" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200936293" />
+    <state width="1037" height="649" key="GridCell.Tab.0.center" timestamp="1596200936293">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
     <state width="1877" height="291" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="365" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956188657" />
-    <state width="1877" height="365" key="GridCell.Tab.0.left" timestamp="1594956188656">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415854" />
+    <state width="1641" height="319" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987272" />
+    <state width="1641" height="329" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
+    <state width="1037" height="649" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200936293" />
+    <state width="1037" height="649" key="GridCell.Tab.0.left" timestamp="1596200936293">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
     <state width="1877" height="291" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="365" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956188656" />
-    <state width="1877" height="365" key="GridCell.Tab.0.right" timestamp="1594956188657">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415854" />
+    <state width="1641" height="319" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987268" />
+    <state width="1641" height="329" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
+    <state width="1037" height="649" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200936293" />
+    <state width="1037" height="649" key="GridCell.Tab.0.right" timestamp="1596200936293">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
     <state width="1877" height="291" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="365" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956188657" />
-    <state width="1877" height="518" key="GridCell.Tab.1.bottom" timestamp="1594956228588">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="319" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987274" />
+    <state width="1641" height="329" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
+    <state width="1037" height="649" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200936293" />
+    <state width="1037" height="457" key="GridCell.Tab.1.bottom" timestamp="1596200559069">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568637" />
     <state width="1877" height="291" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="518" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956228588" />
-    <state width="1877" height="518" key="GridCell.Tab.1.center" timestamp="1594956228587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
+    <state width="938" height="270" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
+    <state width="1037" height="457" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200559069" />
+    <state width="1037" height="457" key="GridCell.Tab.1.center" timestamp="1596200559068">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
     <state width="1877" height="291" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="518" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956228587" />
-    <state width="1877" height="518" key="GridCell.Tab.1.left" timestamp="1594956228587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="259" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
+    <state width="938" height="270" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
+    <state width="1037" height="457" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200559068" />
+    <state width="1037" height="457" key="GridCell.Tab.1.left" timestamp="1596200559068">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
     <state width="1877" height="291" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="518" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956228587" />
-    <state width="1877" height="518" key="GridCell.Tab.1.right" timestamp="1594956228587">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="259" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674391" />
+    <state width="938" height="270" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
+    <state width="1037" height="457" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200559068" />
+    <state width="1037" height="457" key="GridCell.Tab.1.right" timestamp="1596200559069">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
     <state width="1877" height="291" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460308589" />
-    <state width="1877" height="518" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594956228587" />
-    <state x="444" y="211" key="SettingsEditor" timestamp="1594949352674">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state width="1877" height="253" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
+    <state width="1641" height="259" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
+    <state width="938" height="270" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
+    <state width="1037" height="457" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596200559069" />
+    <state x="444" y="217" key="SettingsEditor" timestamp="1596097286214">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1476" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444563759" />
     <state x="444" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454841432" />
     <state x="444" y="211" key="SettingsEditor/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949352674" />
+    <state x="444" y="217" key="SettingsEditor/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097286214" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1594950246560">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -442,48 +509,57 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="968" height="533" key="XDebugger.FullValuePopup/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594953154676" />
-    <state x="645" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594436295299">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="645" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1595297074236">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594436295299" />
-    <state x="684" y="300" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1594949348064">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="645" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595297074236" />
+    <state x="684" y="309" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1596094462016">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1236" y="297" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444559949" />
     <state x="684" y="297" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454820497" />
     <state x="684" y="300" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949348064" />
-    <state x="833" y="297" width="417" height="539" key="ftp.server.browser" timestamp="1594456211315">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="684" y="309" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094462016" />
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1" timestamp="1596096394991">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596096394991" />
+    <state x="833" y="308" width="417" height="539" key="ftp.server.browser" timestamp="1596094460834">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1087" y="297" width="417" height="539" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855098" />
     <state x="833" y="297" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594456211315" />
+    <state x="833" y="308" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094460834" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dev_SimHash.py</url>
-          <line>231</line>
-          <option name="timeStamp" value="8" />
+          <url>file://$PROJECT_DIR$/component/progress/progress.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/dev_SimHash.py</url>
-          <line>219</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dev_SimHash.py</url>
-          <line>176</line>
-          <option name="timeStamp" value="12" />
+          <line>183</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NLP$progress.coverage" NAME="progress Coverage Results" MODIFIED="1596193615647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/progress" />
+    <SUITE FILE_PATH="coverage/NLP$dev_SimHash.coverage" NAME="dev_SimHash Coverage Results" MODIFIED="1596199625508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$jsonParse.coverage" NAME="jsonParse Coverage Results" MODIFIED="1596200871114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/NLP$simhash_test.coverage" NAME="simhash_test Coverage Results" MODIFIED="1594438723613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP$simHASH__1_.coverage" NAME="simHASH (1) Coverage Results" MODIFIED="1594440827094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP$test.coverage" NAME="simHASH Coverage Results" MODIFIED="1594440741241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NLP$dev_SimHash__1_.coverage" NAME="dev_SimHash (1) Coverage Results" MODIFIED="1594956188557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NLP$test_SimHash.coverage" NAME="test_SimHash Coverage Results" MODIFIED="1594949804636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$dev_SimHash__1_.coverage" NAME="dev_SimHash (1) Coverage Results" MODIFIED="1596094408737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$logger.coverage" NAME="logger Coverage Results" MODIFIED="1596193472126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component" />
+    <SUITE FILE_PATH="coverage/NLP$test_SimHash.coverage" NAME="test_SimHash Coverage Results" MODIFIED="1595038970121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$html2txt.coverage" NAME="html2txt Coverage Results" MODIFIED="1596094693374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/NLP$test_html2txt.coverage" NAME="test_html2txt Coverage Results" MODIFIED="1596096103179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/test" />
+    <SUITE FILE_PATH="coverage/NLP$test_doc2txt.coverage" NAME="test_doc2txt Coverage Results" MODIFIED="1596097340962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/test" />
   </component>
 </project>

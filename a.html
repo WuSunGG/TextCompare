@@ -1,0 +1,60 @@
+
+     <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="utf-8">
+        <title>ECharts</title>
+        <!-- 引入 echarts.js -->
+       <script src="https://cdn.bootcdn.net/ajax/libs/echarts/4.8.0/echarts.min.js"></script>
+    </head>
+    <body >
+        <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+        <div id="main" style="width:1280px;height:720px;"></div>
+        <script type="text/javascript">
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('main'));
+
+
+            var data= [{"name": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "x": 50, "y": 1350.0, "symbolSize": 100}, {"name": "15\u8f6f\u5de5-11-\u66fe\u7965\u6b66", "x": 500, "y": 50, "symbolSize": 69}, {"name": "15\u8f6f\u5de5-08-\u5b54\u8389", "x": 500, "y": 350, "symbolSize": 60}, {"name": "15\u8f6f\u5de5-09-\u6731\u9e4f\u6210", "x": 500, "y": 650, "symbolSize": 54}, {"name": "15\u8f6f\u5de5-10-\u9c9c\u98de", "x": 500, "y": 950, "symbolSize": 54}, {"name": "15\u8f6f\u5de5-01-\u6731\u6d69", "x": 500, "y": 1250, "symbolSize": 42}, {"name": "15\u8f6f\u5de5-03-\u91d1\u9a6c", "x": 500, "y": 1550, "symbolSize": 39}, {"name": "15\u8f6f\u5de5-06-\u7533\u5a77\u5a77", "x": 500, "y": 1850, "symbolSize": 39}, {"name": "15\u8f6f\u5de5-04-\u97e9\u5149\u654f", "x": 500, "y": 2150, "symbolSize": 33}, {"name": "15\u8f6f\u5de5-07-\u9648\u53cb\u5f3a", "x": 500, "y": 2450, "symbolSize": 33}]  ;
+            var links= [{"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-11-\u66fe\u7965\u6b66", "lineStyle": {"width": 23}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-08-\u5b54\u8389", "lineStyle": {"width": 20}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-09-\u6731\u9e4f\u6210", "lineStyle": {"width": 18}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-10-\u9c9c\u98de", "lineStyle": {"width": 18}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-01-\u6731\u6d69", "lineStyle": {"width": 14}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-03-\u91d1\u9a6c", "lineStyle": {"width": 13}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-06-\u7533\u5a77\u5a77", "lineStyle": {"width": 13}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-04-\u97e9\u5149\u654f", "lineStyle": {"width": 11}}, {"source": "15-\u8f6f\u5de5-47-\u6768\u5b97\u6d41", "target": "15\u8f6f\u5de5-07-\u9648\u53cb\u5f3a", "lineStyle": {"width": 11}}] ;
+
+
+            // 指定图表的配置项和数据
+            var option = {
+                title: {
+                    text: 'Graph 简单示例'
+                },
+                tooltip: {},
+                animationDurationUpdate: 15000,
+                animationEasingUpdate: 'quinticInOut',
+                series: [
+                    {
+                        type: 'graph',
+                        layout: 'none',
+                        roam: true,
+                        symbolSize: 50,// 决定全局图像的大小，如圆
+                        label: {
+                            show: true
+                        },
+                        edgeSymbol: ['circle', 'arrow'],
+                        edgeSymbolSize: [4, 10],
+                        edgeLabel: {
+                            fontSize: 20
+                        },
+                        data: data,
+                        links:links,
+                        lineStyle: {
+                            opacity: 0.9,
+                            width: 2,
+                            curveness: 0
+                        }
+                    }
+                ]
+            };
+
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        </script>
+    </body>
+    </html>
+    

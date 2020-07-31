@@ -6,6 +6,13 @@
         <remote-mappings server-id="python@9f473feb-4bf1-470c-bb42-3a2a407852b0" />
         <remote-mappings server-id="python@sftp://root@192.168.184.129:22/usr/bin/python" />
         <remote-mappings server-id="python@sftp://root@192.168.5.30:22/usr/bin/python" />
+        <remote-mappings server-id="python@sftp://root@192.168.5.220:22/usr/bin/python">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/tmp/pycharm_project_83" />
+            </list>
+          </settings>
+        </remote-mappings>
       </list>
     </list>
   </component>

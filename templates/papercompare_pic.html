@@ -1,0 +1,9 @@
+<h1>文章批量对比</h1>
+<small style="color: red">说明：相似距离越小，文章越相似</small>
+{% for res in results %}
+<h1>{{res.name}}</h1>
+        {% autoescape off %}
+         {{res.html}}
+        {% endautoescape %}
+
+{% endfor %}

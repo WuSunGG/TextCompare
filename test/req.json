@@ -1,0 +1,24 @@
+{
+  "type": "html",
+  "distance":100,
+  "papers": [
+    {
+      "name": "zhangsan",
+      "sno": "2019201964",
+      "papername": "if i was a boy",
+      "content":"<h1>if i was a boy, i will go to fly like a bird</h1>"
+    },
+       {
+      "name": "zhangsan",
+      "sno": "2019201963",
+      "papername": "xxxy",
+      "content":"if i was a boy"
+    },
+       {
+      "name": "zhangsan",
+      "sno": "2019201962",
+      "papername": "if i was a boy 嘻嘻嘻嘻嘻嘻嘻嘻寻寻",
+      "content":"3想象的"
+    }
+  ]
+}
