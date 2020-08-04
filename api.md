@@ -1,6 +1,6 @@
-## API
+## 文章对比接口说明
 
-## host
+## 测试host
 
 http://sunwu.zicp.net/
 
@@ -8,19 +8,9 @@ http://sunwu.zicp.net/
 
 ## API
 
-POST /v1/html
+### **文章对比**  POST /v1/html 
 
-说明
-
-```
-  "type": "html", // 文章类型
-  "distance":20,  //判定距离
-  "papers": [     //文章
-```
-
-
-
-请求：
+#### 请求：
 
 ```
 {
@@ -49,7 +39,7 @@ POST /v1/html
 }
 ```
 
-响应：
+#### 响应：
 
 ```
 {
@@ -135,5 +125,13 @@ POST /v1/html
         ]
     }
 }
+```
+
+#### 说明
+
+```
+  "type": "html", // 文章类型
+  "distance":20,  //判定距离
+  "papers": [     //文章
 ```
 
