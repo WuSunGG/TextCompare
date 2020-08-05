@@ -1,16 +1,20 @@
-## 文章对比接口说明
+# 文章对比接口说明
 
-## 测试host
+## 架构
 
-http://sunwu.zicp.net/
+![image-20200805145320764](https://gitee.com/gsunwu/blogs/raw/master/blogs-images/20200805145320.png)
 
 
 
-## API
+## RestFul API
 
-### **文章对比**  POST /v1/html 
+测试host：	http://sunwu.zicp.net/
 
-#### 请求：
+### **文章对比** 
+
+#####  POST /v1/html 
+
+##### req
 
 ```
 {
@@ -39,7 +43,7 @@ http://sunwu.zicp.net/
 }
 ```
 
-#### 响应：
+##### res
 
 ```
 {
@@ -127,7 +131,7 @@ http://sunwu.zicp.net/
 }
 ```
 
-#### 说明
+##### note
 
 ```
   "type": "html", // 文章类型
