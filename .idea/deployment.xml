@@ -1,18 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="root@192.168.5.30:22" autoUploadExternalChanges="true">
+  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.5.220" autoUploadExternalChanges="true">
     <serverData>
-      <paths name="root@192.168.5.220:22">
+      <paths name="192.168.5.220">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="/" />
-          </mappings>
-        </serverdata>
-      </paths>
-      <paths name="root@192.168.5.30:22">
-        <serverdata>
-          <mappings>
-            <mapping deploy="/tmp/pycharm_project_83" local="$PROJECT_DIR$" />
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>

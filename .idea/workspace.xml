@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/sw.paper_ompare.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite-snapshot-202007061213.tar.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.md" beforeDir="false" afterPath="$PROJECT_DIR$/api.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/install.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +60,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/component/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,18 +72,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Arktao\TextCompare" />
       <recent name="F:\Arktao\NLP\component\test" />
       <recent name="F:\Arktao\NLP\test" />
       <recent name="F:\Arktao\NLP\works" />
       <recent name="F:\Arktao\NLP\templates" />
-      <recent name="F:\Arktao\NLP\textsim" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Arktao\TextCompare\nginx" />
       <recent name="F:\Arktao\NLP\component\test" />
       <recent name="F:\Arktao\NLP\component\trans" />
       <recent name="F:\Arktao\NLP\simhash" />
       <recent name="F:\Arktao\NLP" />
-      <recent name="D:\NLP\picpre\static\picpre" />
     </key>
   </component>
   <component name="RunManager" selected="Python.jsonParse">
@@ -206,6 +213,8 @@
       <workItem from="1596094393906" duration="20689000" />
       <workItem from="1596504197681" duration="1676000" />
       <workItem from="1596610132451" duration="495000" />
+      <workItem from="1596809797032" duration="1045000" />
+      <workItem from="1596862294103" duration="14253000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -269,27 +278,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="完成文章对比和图片分类demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="183" key="#Deployment" timestamp="1594949253749">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2155" y="335" key="#Deployment" timestamp="1596862548905">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1503" y="181" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855947" />
     <state x="417" y="183" key="#Deployment/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949253749" />
+    <state x="2155" y="335" key="#Deployment/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596862548905" />
     <state x="2052" y="621" key="#Inspections" timestamp="1596193453824">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="2052" y="621" key="#Inspections/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596193453824" />
-    <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596094425423">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596809931826">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460315811" />
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949272114" />
     <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094425423" />
-    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596610368363">
-      <screen x="1920" y="0" width="1080" height="1920" />
+    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596809931826" />
+    <state x="670" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596866685790">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1250" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594436325173" />
     <state x="670" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454671195" />
     <state x="670" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594967562443" />
+    <state x="670" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596866685790" />
     <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596610368363" />
     <state x="689" y="301" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594456246932">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -327,12 +339,13 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447742587" />
-    <state x="740" y="286" key="FileChooserDialogImpl" timestamp="1596526273668">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="2336" y="508" key="FileChooserDialogImpl" timestamp="1596810290050">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444517358" />
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595297157011" />
     <state x="740" y="286" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596526273668" />
+    <state x="2336" y="508" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810290050" />
     <state width="1037" height="457" key="GridCell.Tab.0.bottom" timestamp="1596243438992">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
@@ -425,11 +438,12 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state width="968" height="533" key="XDebugger.FullValuePopup/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594953154676" />
-    <state x="645" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1595297074236">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="2283" y="635" key="com.intellij.ide.util.TipDialog" timestamp="1596862443098">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="645" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594436295299" />
     <state x="645" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595297074236" />
+    <state x="2283" y="635" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596862443098" />
     <state x="684" y="309" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1596094462016">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -437,25 +451,22 @@
     <state x="684" y="297" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454820497" />
     <state x="684" y="300" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949348064" />
     <state x="684" y="309" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094462016" />
-    <state x="92" y="92" width="1736" height="896" key="dock-window-1" timestamp="1596096394991">
+    <state x="190" y="0" width="1307" height="1144" key="dock-window-1" timestamp="1596810638592">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596096394991" />
-    <state x="833" y="308" width="417" height="539" key="ftp.server.browser" timestamp="1596094460834">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="190" y="0" width="1307" height="1144" key="dock-window-1/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810638592" />
+    <state x="2389" y="548" width="417" height="539" key="ftp.server.browser" timestamp="1596810061616">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1087" y="297" width="417" height="539" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855098" />
     <state x="833" y="297" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594456211315" />
     <state x="833" y="308" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094460834" />
+    <state x="2389" y="548" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810061616" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/component/progress/progress.py</url>
-          <line>34</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/dev_SimHash.py</url>
           <line>183</line>
