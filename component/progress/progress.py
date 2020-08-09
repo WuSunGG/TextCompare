@@ -1,6 +1,8 @@
 import requests
 from logging import debug, info
 
+from tools import bldPrs
+
 
 class progress:
     FAIL = "fail"
@@ -16,7 +18,8 @@ class progress:
 
             self.userid = userid
 
-    def putMsg(self, msg):
+    def putMsg(self, msg, progress, code=0):
+        msg = bldPrs(msg, code, progress)
         url = "http://122.114.95.64:8221"
         payload = 'type=publish&to={}&content={}'.format(self.userid, msg)
         headers = {
@@ -33,4 +36,4 @@ class progress:
 
 if __name__ == "__main__":
     pr = progress("sunwutest")
-    print (pr.putMsg("xxxxxx"))
+    print(pr.putMsg("xxxxxx"))

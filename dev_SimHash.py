@@ -176,6 +176,7 @@ def comparePaper(papersObj,decision_distince=20):
                 t_res = papersObj[comPaper].copy()
                 t_res['distance'] = -1
                 del t_res['simhash']
+                del t_res['content']
                 res[paper].append(t_res)
                 continue
             distance = simhash.getDistince(current_hash, papersObj[comPaper]['simhash'])
@@ -183,6 +184,7 @@ def comparePaper(papersObj,decision_distince=20):
                 t_res = papersObj[comPaper].copy()
                 t_res['distance'] = distance
                 del t_res['simhash']
+                del t_res['content']
                 t_res['percent']=(36-distance)/36 *100
                 # del t_res['simhash']
                 res[paper].append(t_res)
@@ -421,7 +423,7 @@ if __name__ == "__main__":
         links_json = json.dumps(links)
 
         html=generateHTML(data_json,links_json)
-        filename = 'a.html'
+        filename = 'test/a.html'
         with open(filename, 'w') as f:
             f.write(html)
         print("写入完成")

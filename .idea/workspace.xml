@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/progress.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/TextCompare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TextCompare.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/a.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/progress/progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/component/progress/progress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/progress/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/progress/progress.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev_SimHash.py" beforeDir="false" afterPath="$PROJECT_DIR$/dev_SimHash.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html_check_request.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install.bat" beforeDir="false" afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/push_to_server.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pypora.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runserver.bat" beforeDir="false" afterPath="$PROJECT_DIR$/runserver.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runserver.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/系统架构图.asta" beforeDir="false" afterPath="$PROJECT_DIR$/dcs/系统架构图.asta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/系统架构图.asta.lock" beforeDir="false" afterPath="$PROJECT_DIR$/dcs/系统架构图.asta.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +80,16 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Arktao\TextCompare\test" />
+      <recent name="D:\Arktao\TextCompare\dcs" />
+      <recent name="D:\Arktao\TextCompare\nginx" />
+      <recent name="F:\Arktao\NLP\component\test" />
+      <recent name="F:\Arktao\NLP\component\trans" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Arktao\TextCompare" />
       <recent name="F:\Arktao\NLP\component\test" />
@@ -70,20 +97,13 @@
       <recent name="F:\Arktao\NLP\works" />
       <recent name="F:\Arktao\NLP\templates" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Arktao\TextCompare\nginx" />
-      <recent name="F:\Arktao\NLP\component\test" />
-      <recent name="F:\Arktao\NLP\component\trans" />
-      <recent name="F:\Arktao\NLP\simhash" />
-      <recent name="F:\Arktao\NLP" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.jsonParse">
-    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/NLP/component/progress/test.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.progress.html">
+    <configuration name="progress.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http:///progress.html">
       <method v="2" />
     </configuration>
     <configuration name="dev_SimHash" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
+      <module name="TextCompare" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -105,7 +125,7 @@
       <method v="2" />
     </configuration>
     <configuration name="jsonParse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
+      <module name="TextCompare" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -126,30 +146,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/component" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/component/logger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="progress" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="NLP" />
+      <module name="TextCompare" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -170,20 +168,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="TextCompare" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.test.html" />
       <item itemvalue="Python.progress" />
-      <item itemvalue="Python.logger" />
       <item itemvalue="Python.jsonParse" />
       <item itemvalue="Python.dev_SimHash" />
+      <item itemvalue="Python.server" />
+      <item itemvalue="JavaScript Debug.progress.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.progress.html" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.jsonParse" />
         <item itemvalue="Python.dev_SimHash" />
         <item itemvalue="Python.progress" />
-        <item itemvalue="Python.logger" />
-        <item itemvalue="JavaScript Debug.test.html" />
       </list>
     </recent_temporary>
   </component>
@@ -207,6 +227,7 @@
       <workItem from="1596610132451" duration="495000" />
       <workItem from="1596809797032" duration="1045000" />
       <workItem from="1596862294103" duration="15454000" />
+      <workItem from="1596974637247" duration="6089000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -280,21 +301,21 @@
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="2052" y="621" key="#Inspections/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596193453824" />
-    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596809931826">
+    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596975402870">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594460315811" />
     <state x="414" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949272114" />
     <state x="414" y="182" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094425423" />
-    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596809931826" />
-    <state x="670" y="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596866685790">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596975402870" />
+    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596978235626">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1250" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594436325173" />
     <state x="670" y="369" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454671195" />
     <state x="670" y="373" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594967562443" />
     <state x="670" y="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596866685790" />
-    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596610368363" />
+    <state x="2297" y="682" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978235626" />
     <state x="689" y="301" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1594456246932">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -303,6 +324,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454665396" />
+    <state x="2308" y="858" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog" timestamp="1596975596156">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2308" y="858" key="#com.jetbrains.python.refactoring.move.PyMoveModuleMembersDialog/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596975596156" />
     <state x="668" y="241" key="#install.sh" timestamp="1594448983579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -331,14 +356,14 @@
       <screen x="-1920" y="0" width="1920" height="1040" />
     </state>
     <state x="-1695" y="144" width="1448" height="783" key="DirDiffDialog/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447742587" />
-    <state x="2336" y="508" key="FileChooserDialogImpl" timestamp="1596810290050">
-      <screen x="1920" y="0" width="1080" height="1920" />
+    <state x="740" y="286" key="FileChooserDialogImpl" timestamp="1596975222724">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1180" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444517358" />
     <state x="740" y="278" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595297157011" />
-    <state x="740" y="286" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596526273668" />
+    <state x="740" y="286" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596975222724" />
     <state x="2336" y="508" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810290050" />
-    <state width="1037" height="457" key="GridCell.Tab.0.bottom" timestamp="1596243438992">
+    <state width="1037" height="673" key="GridCell.Tab.0.bottom" timestamp="1596978080069">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
@@ -346,8 +371,8 @@
     <state width="1877" height="253" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="319" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987275" />
     <state width="1641" height="329" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
-    <state width="1037" height="457" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438992" />
-    <state width="1037" height="457" key="GridCell.Tab.0.center" timestamp="1596243438991">
+    <state width="1037" height="673" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080069" />
+    <state width="1037" height="673" key="GridCell.Tab.0.center" timestamp="1596978080069">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
@@ -355,8 +380,8 @@
     <state width="1877" height="253" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415854" />
     <state width="1641" height="319" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987272" />
     <state width="1641" height="329" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
-    <state width="1037" height="457" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438991" />
-    <state width="1037" height="457" key="GridCell.Tab.0.left" timestamp="1596243438991">
+    <state width="1037" height="673" key="GridCell.Tab.0.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080069" />
+    <state width="1037" height="673" key="GridCell.Tab.0.left" timestamp="1596978080069">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
@@ -364,8 +389,8 @@
     <state width="1877" height="253" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415854" />
     <state width="1641" height="319" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987268" />
     <state width="1641" height="329" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
-    <state width="1037" height="457" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438991" />
-    <state width="1037" height="457" key="GridCell.Tab.0.right" timestamp="1596243438991">
+    <state width="1037" height="673" key="GridCell.Tab.0.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080069" />
+    <state width="1037" height="673" key="GridCell.Tab.0.right" timestamp="1596978080069">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="386" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440845684" />
@@ -373,8 +398,8 @@
     <state width="1877" height="253" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="319" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595038987274" />
     <state width="1641" height="329" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596100539045" />
-    <state width="1037" height="457" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438991" />
-    <state width="1037" height="457" key="GridCell.Tab.1.bottom" timestamp="1596243438993">
+    <state width="1037" height="673" key="GridCell.Tab.0.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080069" />
+    <state width="1037" height="673" key="GridCell.Tab.1.bottom" timestamp="1596978080070">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568637" />
@@ -382,8 +407,8 @@
     <state width="1877" height="253" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="259" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
     <state width="938" height="270" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
-    <state width="1037" height="457" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438993" />
-    <state width="1037" height="457" key="GridCell.Tab.1.center" timestamp="1596243438993">
+    <state width="1037" height="673" key="GridCell.Tab.1.bottom/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080070" />
+    <state width="1037" height="673" key="GridCell.Tab.1.center" timestamp="1596978080070">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.center/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
@@ -391,8 +416,8 @@
     <state width="1877" height="253" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="259" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
     <state width="938" height="270" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
-    <state width="1037" height="457" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438993" />
-    <state width="1037" height="457" key="GridCell.Tab.1.left" timestamp="1596243438992">
+    <state width="1037" height="673" key="GridCell.Tab.1.center/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080070" />
+    <state width="1037" height="673" key="GridCell.Tab.1.left" timestamp="1596978080069">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.left/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
@@ -400,8 +425,8 @@
     <state width="1877" height="253" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="259" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674391" />
     <state width="938" height="270" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
-    <state width="1037" height="457" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438992" />
-    <state width="1037" height="457" key="GridCell.Tab.1.right" timestamp="1596243438993">
+    <state width="1037" height="673" key="GridCell.Tab.1.left/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080069" />
+    <state width="1037" height="673" key="GridCell.Tab.1.right" timestamp="1596978080070">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state width="1877" height="277" key="GridCell.Tab.1.right/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594440568636" />
@@ -409,14 +434,15 @@
     <state width="1877" height="253" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1595158415855" />
     <state width="1641" height="259" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1595031674392" />
     <state width="938" height="270" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097319195" />
-    <state width="1037" height="457" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596243438993" />
-    <state x="444" y="217" key="SettingsEditor" timestamp="1596097286214">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1037" height="673" key="GridCell.Tab.1.right/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978080070" />
+    <state x="2006" y="386" key="SettingsEditor" timestamp="1596975449666">
+      <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1476" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594444563759" />
     <state x="444" y="209" key="SettingsEditor/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594454841432" />
     <state x="444" y="211" key="SettingsEditor/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949352674" />
     <state x="444" y="217" key="SettingsEditor/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596097286214" />
+    <state x="2006" y="386" key="SettingsEditor/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596975449666" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1594950246560">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -448,6 +474,10 @@
     </state>
     <state x="92" y="92" width="1736" height="896" key="dock-window-1/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596096394991" />
     <state x="190" y="0" width="1307" height="1144" key="dock-window-1/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810638592" />
+    <state x="2147" y="715" width="626" height="490" key="find.popup" timestamp="1596978326313">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2147" y="715" width="626" height="490" key="find.popup/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978326313" />
     <state x="2389" y="548" width="417" height="539" key="ftp.server.browser" timestamp="1596810061616">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
@@ -456,29 +486,19 @@
     <state x="833" y="308" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094460834" />
     <state x="2389" y="548" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810061616" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/dev_SimHash.py</url>
-          <line>183</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NLP$progress.coverage" NAME="progress Coverage Results" MODIFIED="1596193615647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/progress" />
     <SUITE FILE_PATH="coverage/NLP$dev_SimHash.coverage" NAME="dev_SimHash Coverage Results" MODIFIED="1596199625508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NLP$jsonParse.coverage" NAME="jsonParse Coverage Results" MODIFIED="1596200871114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/NLP$simhash_test.coverage" NAME="simhash_test Coverage Results" MODIFIED="1594438723613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TextCompare$server.coverage" NAME="server Coverage Results" MODIFIED="1596976911212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP$simHASH__1_.coverage" NAME="simHASH (1) Coverage Results" MODIFIED="1594440827094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NLP$test.coverage" NAME="simHASH Coverage Results" MODIFIED="1594440741241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP$dev_SimHash__1_.coverage" NAME="dev_SimHash (1) Coverage Results" MODIFIED="1596094408737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/NLP$logger.coverage" NAME="logger Coverage Results" MODIFIED="1596193472126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component" />
-    <SUITE FILE_PATH="coverage/NLP$test_SimHash.coverage" NAME="test_SimHash Coverage Results" MODIFIED="1595038970121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/NLP$html2txt.coverage" NAME="html2txt Coverage Results" MODIFIED="1596094693374" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/NLP$test_html2txt.coverage" NAME="test_html2txt Coverage Results" MODIFIED="1596096103179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/test" />
     <SUITE FILE_PATH="coverage/NLP$test_doc2txt.coverage" NAME="test_doc2txt Coverage Results" MODIFIED="1596097340962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/test" />
+    <SUITE FILE_PATH="coverage/NLP$jsonParse.coverage" NAME="jsonParse Coverage Results" MODIFIED="1596200871114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/NLP$simhash_test.coverage" NAME="simhash_test Coverage Results" MODIFIED="1594438723613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$test.coverage" NAME="simHASH Coverage Results" MODIFIED="1594440741241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NLP$logger.coverage" NAME="logger Coverage Results" MODIFIED="1596193472126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component" />
+    <SUITE FILE_PATH="coverage/NLP$test_SimHash.coverage" NAME="test_SimHash Coverage Results" MODIFIED="1595038970121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

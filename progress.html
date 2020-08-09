@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script src='http://cdn.bootcss.com/socket.io/1.3.7/socket.io.js'></script>
+<script>
+
+    // 初始化io对象
+    var socket = io('wss://ppt2img_socket.lessonplan.cn:8202');
+
+    // uid 用户的uid
+    var uid = "sunwutest";
+
+    //发送连接进度服务器请求
+    socket.on('connect', function () {
+            socket.emit('connect_progress', uid);
+        }
+    );
+
+    //服务器返回进度信息,这里不返回图片信息
+    socket.on('progress_msg', function (msg) {
+        console.log(JSON.parse(msg));
+    });
+</script>
+</body>
+</html>
