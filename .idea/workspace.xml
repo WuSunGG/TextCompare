@@ -2,27 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/progress.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tools.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TextCompare.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TextCompare.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/check_and_reboot.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a.html" beforeDir="false" afterPath="$PROJECT_DIR$/test/a.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/progress/progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/component/progress/progress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component/progress/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/progress/progress.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/server.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev_SimHash.py" beforeDir="false" afterPath="$PROJECT_DIR$/dev_SimHash.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_check_request.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.bat" beforeDir="false" afterPath="$PROJECT_DIR$/install.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/push_to_server.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pypora.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runserver.bat" beforeDir="false" afterPath="$PROJECT_DIR$/runserver.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runserver.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/系统架构图.asta" beforeDir="false" afterPath="$PROJECT_DIR$/dcs/系统架构图.asta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/系统架构图.asta.lock" beforeDir="false" afterPath="$PROJECT_DIR$/dcs/系统架构图.asta.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/access.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +50,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -227,7 +212,7 @@
       <workItem from="1596610132451" duration="495000" />
       <workItem from="1596809797032" duration="1045000" />
       <workItem from="1596862294103" duration="15454000" />
-      <workItem from="1596974637247" duration="6089000" />
+      <workItem from="1596974637247" duration="7359000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -291,12 +276,12 @@
     <option name="LAST_COMMIT_MESSAGE" value="完成文章对比和图片分类demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2155" y="335" key="#Deployment" timestamp="1596862548905">
+    <state x="2155" y="335" key="#Deployment" timestamp="1596981227702">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1503" y="181" key="#Deployment/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855947" />
     <state x="417" y="183" key="#Deployment/0.0.1920.1050/1920.0.1080.1890@0.0.1920.1050" timestamp="1594949253749" />
-    <state x="2155" y="335" key="#Deployment/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596862548905" />
+    <state x="2155" y="335" key="#Deployment/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596981227702" />
     <state x="2052" y="621" key="#Inspections" timestamp="1596193453824">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
@@ -478,13 +463,13 @@
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="2147" y="715" width="626" height="490" key="find.popup/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596978326313" />
-    <state x="2389" y="548" width="417" height="539" key="ftp.server.browser" timestamp="1596810061616">
+    <state x="2389" y="548" width="417" height="539" key="ftp.server.browser" timestamp="1596981197404">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="-1087" y="297" width="417" height="539" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1594447855098" />
     <state x="833" y="297" key="ftp.server.browser/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1594456211315" />
     <state x="833" y="308" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@0.0.1920.1080" timestamp="1596094460834" />
-    <state x="2389" y="548" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596810061616" />
+    <state x="2389" y="548" key="ftp.server.browser/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596981197404" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/NLP$progress.coverage" NAME="progress Coverage Results" MODIFIED="1596193615647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/component/progress" />
