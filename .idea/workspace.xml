@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b3ab2d5-0545-4c56-a6bf-b9774af1a67a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/check_and_reboot.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/logs/access.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/access.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runserver.bat" beforeDir="false" afterPath="$PROJECT_DIR$/runserver.bat" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +210,7 @@
       <workItem from="1596610132451" duration="495000" />
       <workItem from="1596809797032" duration="1045000" />
       <workItem from="1596862294103" duration="15454000" />
-      <workItem from="1596974637247" duration="7359000" />
+      <workItem from="1596974637247" duration="8344000" />
     </task>
     <task id="LOCAL-00001" summary="添加为网页功能">
       <created>1594458271233</created>
@@ -286,6 +284,10 @@
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>
     <state x="2052" y="621" key="#Inspections/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596193453824" />
+    <state x="2052" y="621" key="#Log_Highlighting_(ideolog)" timestamp="1596982056624">
+      <screen x="1920" y="0" width="1080" height="1920" />
+    </state>
+    <state x="2052" y="621" key="#Log_Highlighting_(ideolog)/0.0.1920.1080/1920.0.1080.1920@1920.0.1080.1920" timestamp="1596982056624" />
     <state x="1920" y="324" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596975402870">
       <screen x="1920" y="0" width="1080" height="1920" />
     </state>

@@ -1,3 +1,4 @@
+cd /d D:\Product\SunwuDevelop\TextCompare
 set FLASK_APP=server.py
 rem set FLASK_ENV=development
 rem set FLASK_DEBUG=1

@@ -1,18 +1,18 @@
+
+
 ## 班级内文章对比查重系统
 
 使用 simihash 算法, 对班级内的文章进行查重对比。
 
 
 
-## 架构
+## 系统架构
 
 ![image-20200809205648522](https://gitee.com/gsunwu/blogs/raw/master/blogs-images/20200809205648.png)
 
 ## 核心算法
 
 simhash 
-
-
 
 
 
@@ -267,3 +267,10 @@ docker run  -p 8217:8000  -itd --restart always  --privileged  --name arktao.tex
  }
 ```
 
+
+
+## 已配置
+
+### 服务自动恢复
+
+宕机时间最多一分钟, 服务挂了之后会自启
